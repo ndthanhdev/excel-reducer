@@ -1,0 +1,31 @@
+{
+  "sheetName": "THỐNG KÊ",
+  "header": [
+    "SỐ HK",
+    "TÊN CHỦ HỘ",
+    "ẤP,KP",
+    "X,P",
+    "HỌ VÀ TÊN",
+    "QUAN HỆ",
+    "NĂM SINH",
+    "GIỚI",
+    "NGUYÊN QUÁN",
+    "DÂN TỘC",
+    "CMND",
+    "ĐKTT CŨ"
+  ],
+  "sources": [
+    ["H12"],
+    ["D14"],
+    ["E13"],
+    ["G13"],
+    ["D7"],
+    ["E19"],
+    ["E15"],
+    ["I15", "String.prototype.toLowerCase(__VALUE__) ==='x' ? 'Nam' : 'Nữ'"],
+    ["D16"],
+    ["D17"],
+    ["D18"],
+    ["F9"]
+  ]
+}
